@@ -1,7 +1,7 @@
 word = input()
- outcome = word
+outcome = word
 
 while len(outcome) <= 30:
-    result += word
+    outcome += word
 
-print(result)
+print(outcome)
