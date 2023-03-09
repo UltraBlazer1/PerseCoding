@@ -1,0 +1,7 @@
+word = input()
+ outcome = word
+
+while len(outcome) <= 30:
+    result += word
+
+print(result)
