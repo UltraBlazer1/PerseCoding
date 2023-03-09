@@ -1,0 +1,5 @@
+days = int(input())
+print("\./")
+
+for stem in range(days):
+  print(".|.")
